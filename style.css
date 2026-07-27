@@ -69,6 +69,12 @@ h3,
   align-items: center;
 }
 
+.mark img {
+  display: block;
+  width: 78px;
+  height: auto;
+}
+
 .tabs {
   display: flex;
   gap: 22px;
@@ -628,7 +634,7 @@ main {
 
 .splash-logo {
   position: absolute;
-  width: 54px;
+  width: 78px;
   height: auto;
 }
 
