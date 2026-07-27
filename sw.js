@@ -1,4 +1,4 @@
-var CACHE_NAME = "plate-cache-v8";
+var CACHE_NAME = "plate-cache-v9";
 var SHELL = [
   "./",
   "./index.html",
@@ -12,6 +12,7 @@ var SHELL = [
   "./icons/icon-192.png",
   "./icons/icon-512.png",
   "./icons/logo.svg",
+  "./icons/new%20logo.svg",
   "./icons/favicon.png"
 ];
 
