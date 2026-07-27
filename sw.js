@@ -1,4 +1,4 @@
-var CACHE_NAME = "plate-cache-v5";
+var CACHE_NAME = "plate-cache-v6";
 var SHELL = [
   "./",
   "./index.html",
@@ -6,6 +6,9 @@ var SHELL = [
   "./app.js",
   "./foods.json",
   "./manifest.json",
+  "./icons/favicon.svg",
+  "./icons/icon-192.svg",
+  "./icons/icon-512.svg",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
   "./icons/logo.svg",
